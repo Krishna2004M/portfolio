@@ -6,8 +6,7 @@ import {twitterDetails} from "../../portfolio";
 import StyleContext from "../../contexts/StyleContext";
 
 const renderLoader = () => <Loading />;
-const cantDisplayError =
-  "<div className='centerContent'><h2></h2></div>";
+const cantDisplayError = "<div className='centerContent'><h2></h2></div>";
 
 function timeOut() {
   setTimeout(function () {

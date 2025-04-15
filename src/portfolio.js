@@ -202,7 +202,8 @@ const bigProjects = {
     {
       image: require("./assets/images/logo.png"),
       projectName: "Segmedix",
-      projectDesc: "Segmedix is an AI-powered platform that detects brain tumors from MRI scans by identifying the tumor's size, type, and location with high accuracy. It instantly generates a clinical report with diagnosis and treatment suggestions without any manual input. The system is designed to scale further for diagnosing conditions in other organs like the liver and heart.",
+      projectDesc:
+        "Segmedix is an AI-powered platform that detects brain tumors from MRI scans by identifying the tumor's size, type, and location with high accuracy. It instantly generates a clinical report with diagnosis and treatment suggestions without any manual input. The system is designed to scale further for diagnosing conditions in other organs like the liver and heart.",
       footerLink: [
         {
           name: "Visit Website",
@@ -218,11 +219,13 @@ const bigProjects = {
 
 const achievementSection = {
   title: emoji("Achievements And Certifications 🏆"),
-  subtitle: "Achievements, Certifications and Some Cool Stuff that I have done!",
+  subtitle:
+    "Achievements, Certifications and Some Cool Stuff that I have done!",
   achievementsCards: [
     {
       title: "Published Research Paper",
-      subtitle: "Code-Mixing and Code-Switching Using CNN, SVM, LSTM, and N-Gram at Hinweis International Conference",
+      subtitle:
+        "Code-Mixing and Code-Switching Using CNN, SVM, LSTM, and N-Gram at Hinweis International Conference",
       image: require("./assets/images/research.jpg"),
       footerLink: [
         {
@@ -233,7 +236,8 @@ const achievementSection = {
     },
     {
       title: "Gold Medalist in Diploma",
-      subtitle: "Achieved Gold Medal in Computer Science Engineering for academic excellence",
+      subtitle:
+        "Achieved Gold Medal in Computer Science Engineering for academic excellence",
       image: require("./assets/images/gold.jpg"),
       footerLink: [
         {
@@ -244,7 +248,8 @@ const achievementSection = {
     },
     {
       title: "AI Tech Event at Infosys",
-      subtitle: 'Presented the project "The Art of Visual Storytelling" at the Celebrating Tech @ Bangalore DC – AI in Action event hosted by Infosys, showcasing AI-driven image-to-story generation.',
+      subtitle:
+        'Presented the project "The Art of Visual Storytelling" at the Celebrating Tech @ Bangalore DC – AI in Action event hosted by Infosys, showcasing AI-driven image-to-story generation.',
       image: require("./assets/images/infosysevent.jpg"),
       footerLink: [
         {
@@ -274,7 +279,8 @@ const resumeSection = {
 
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
-  subtitle: "Discuss a project or just want to say hi? My Inbox is open for all.",
+  subtitle:
+    "Discuss a project or just want to say hi? My Inbox is open for all.",
   number: "+91 9788679188",
   email_address: "krishbabu2004@gmail.com"
 };
@@ -302,19 +308,19 @@ const blogSection = {
   //     title: "Understanding Computer Vision Models: A Comprehensive Guide",
   //     description: "A deep dive into different computer vision models, their architectures, and real-world applications in image processing and object detection."
   //   },
-//     {
-//       url: "https://medium.com/@krishbabu2004/building-ai-solutions-with-python-and-tensorflow",
-//       title: "Building AI Solutions with Python and TensorFlow",
-//       description: "Practical guide to implementing AI solutions using Python and TensorFlow, covering model development, training, and deployment."
-//     },
-//     {
-//       url: "https://medium.com/@krishbabu2004/nlp-in-action-text-analysis-and-language-understanding",
-//       title: "NLP in Action: Text Analysis and Language Understanding",
-//       description: "Exploring Natural Language Processing techniques and their applications in text analysis, sentiment analysis, and language understanding."
-//     }
-//   ],
-//   display: true
- };
+  //     {
+  //       url: "https://medium.com/@krishbabu2004/building-ai-solutions-with-python-and-tensorflow",
+  //       title: "Building AI Solutions with Python and TensorFlow",
+  //       description: "Practical guide to implementing AI solutions using Python and TensorFlow, covering model development, training, and deployment."
+  //     },
+  //     {
+  //       url: "https://medium.com/@krishbabu2004/nlp-in-action-text-analysis-and-language-understanding",
+  //       title: "NLP in Action: Text Analysis and Language Understanding",
+  //       description: "Exploring Natural Language Processing techniques and their applications in text analysis, sentiment analysis, and language understanding."
+  //     }
+  //   ],
+  //   display: true
+};
 
 const talkSection = {
   // title: "TALKS",
