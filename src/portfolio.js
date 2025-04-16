@@ -226,7 +226,7 @@ const achievementSection = {
       title: "Published Research Paper",
       subtitle:
         "Code-Mixing and Code-Switching Using CNN, SVM, LSTM, and N-Gram at Hinweis International Conference",
-      image: require("./assets/images/research.jpg"),
+      image: require("./assets/images/paper.png"),
       footerLink: [
         {
           name: "View Paper",
