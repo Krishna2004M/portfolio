@@ -230,7 +230,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "View Paper",
-          url: ""
+          url: "https://thegrenze.com/pages/servej.php?fn=82.pdf&name=Code-Mixing%20and%20Code-Switching%20Detection%20usingSVM,%20LSTM,%20CNN%20and%20N-Gram%20Models&id=3891&association=GRENZE&journal=GIJET&year=2025&volume=11&issue=1"
         }
       ]
     },
