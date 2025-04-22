@@ -140,23 +140,23 @@ const techStack = {
   viewSkillBars: true,
   experience: [
     {
-      Stack: "Machine Learning & Deep Learning",
+      Stack: "Machine Learning & Deep Learning (Advanced)",
       progressPercentage: "90%"
     },
     {
-      Stack: "Model Deployment & MLOps",
+      Stack: "Model Deployment & MLOps (Intermediate)",
       progressPercentage: "60%"
     },
     {
-      Stack: "Data Processing & Feature Engineering",
-      progressPercentage: "65%"
+      Stack: "Data Processing & Feature Engineering (Advanced)",
+      progressPercentage: "90%"
     },
     {
-      Stack: "NLP & Computer Vision",
+      Stack: "NLP & Computer Vision (Advanced)",
       progressPercentage: "85%"
     },
     {
-      Stack: "Python Programming",
+      Stack: "Python Programming (Advanced)",
       progressPercentage: "85%"
     }
   ],
