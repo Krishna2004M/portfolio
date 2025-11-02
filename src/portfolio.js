@@ -114,7 +114,7 @@ const educationInfo = {
       logo: require("./assets/images/lpulogo.jpg"),
       subHeader: "B.Tech in Computer Science and Engineering",
       duration: "Dec 2024 - Present",
-      desc: "CGPA: 5.3",
+      desc: "CGPA: .6.6",
       descBullets: [
         "Studying advanced computer science concepts and technologies",
         "Focusing on AI, Machine Learning, and Computer Vision"
